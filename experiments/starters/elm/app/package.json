@@ -1,0 +1,32 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start",
+    "api": "node api.js",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "dev": "webpack-dev-server --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.9"
+  },
+  "devDependencies": {
+    "ace-css": "1",
+    "css-loader": "0",
+    "elm-webpack-loader": "3",
+    "file-loader": "0",
+    "font-awesome": "4",
+    "foreman": "^2.0.0",
+    "style-loader": "0",
+    "url-loader": "0",
+    "webpack": "1",
+    "webpack-dev-middleware": "1",
+    "webpack-dev-server": "1"
+  }
+}

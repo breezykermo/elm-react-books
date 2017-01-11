@@ -1,0 +1,12 @@
+{
+  "name": "elm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "elm-make index.elm && http-server -p 4444"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+Layout {
+  Header
+  Panel {
+    Header
+    Panel {}
+    Panel {}
+  }
+  Footer
+}
+
+** Another way of framing the q I'm asking: is XML the most logical way of
+  framing React components? It's probably willful and unnecessary to create
+  a new syntax like this, like jade for HTML. What value am I really adding?

@@ -1,0 +1,12 @@
+.list-container {
+  /* max-width: 20em; */
+  /* text-align: left; */
+}
+
+.list-title {
+  text-align: center;
+}
+ul {
+  list-style: none;
+  text-align: left;
+}
