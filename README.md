@@ -1,5 +1,5 @@
 <div align="center"><img height=100 width=100 src="img/elm-logo.png"><img height=100 width=100 src="img/react-redux.jpg"></div>
-<h1 style="text-align:center;">React Elm Compariso</h1>
+<h1 align="center">React Elm Comparison</h1>
 
 A simple application written in both Elm and React-Redux, in order to compare the two dialects of application development.
 
