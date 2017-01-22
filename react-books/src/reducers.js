@@ -54,7 +54,6 @@ const srcUrl = 'https://raw.githubusercontent.com/breezykermo/LachieKermode/mast
 export const getLachieShelf = () =>
   (dispatch : Function, getState : Function) => {
     return fetch(srcUrl)
-    // return Promise.resolve(json)
       .then(result => result.json())
       .then((data) => {
         // simulate Elm's Json.Decode validation
